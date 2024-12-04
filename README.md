@@ -4,16 +4,16 @@ Certified Top Talent in Upwork:<br>
 <a target="_blank" href="https://www.upwork.com/freelancers/sauldanielmiranda"> 
 Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 
-- 🌱 Currently mastering C++ to enhance my skills in advanced programming.
-- 🚀 Founder of Neotoro Technology, where we collaborate with high-level companies to create impactful technological experiences worldwide. 
-<a href="https://www.neotorotech.com/"> Neotoro Technology </a>
-- 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.
-- 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.
+- 🌱 Currently mastering C++ to enhance my skills in advanced programming.<br>
+- 🚀 Founder of Neotoro Technology, where we collaborate with high-level companies to create impactful technological experiences worldwide. <br>
+<a href="https://www.neotorotech.com/"> Neotoro Technology </a><br>
+- 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.<br>
+- 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.<br>
 - 💡 Let’s connect! If you have an exciting project or shared interests, feel free to reach out.
-
+<br>
 - 📫 Email: contact@saulmiranda.com
-
-🚀 My Favorite Frameworks & Libraries <br>
+<br>
+<strong>🚀 My Favorite Frameworks & Libraries </strong><br>
 🐘 Laravel – Elegant PHP framework for web artisans. <br>
 ⚛️ ReactJS – A library for building user interfaces with ease. <br>
 🅰️ AngularJS – Dynamic, robust, and full-featured front-end framework. <br>

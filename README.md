@@ -10,8 +10,26 @@ Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 - 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.
 - 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.
 - 💡 Let’s connect! If you have an exciting project or shared interests, feel free to reach out.
+
 - 📫 Email: contact@saulmiranda.com
 
+🚀 My Favorite Frameworks & Libraries
+🐘 Laravel – Elegant PHP framework for web artisans.
+⚛️ ReactJS – A library for building user interfaces with ease.
+🅰️ AngularJS – Dynamic, robust, and full-featured front-end framework.
+🐍 Django – The web framework for perfectionists with deadlines.
+🌲 Node.js – JavaScript runtime built for scalable applications.
+⏭️ Next.js – The React framework for production and speed.
+🚦 Express.js – Minimal and flexible Node.js web application framework.
+🌐 Vue.js – The progressive framework for building user interfaces.
+📦 Bootstrap – A sleek, intuitive, and powerful front-end framework.
+🎨 Tailwind CSS – Utility-first CSS framework for rapid UI development.
+⚙️ Flask – Lightweight and simple Python framework.
+🛠️ ASP.NET – A powerful framework for building enterprise-level applications.
+📊 Chart.js – Simple yet flexible JavaScript charting library.
+📜 jQuery – Simplifying JavaScript for dynamic web apps.
+📦 Redux – Predictable state container for JavaScript apps.
+📡 Socket.IO – Real-time bidirectional event-based communication.
 
 <!---
 SaulMirandaSxz/SaulMirandaSxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

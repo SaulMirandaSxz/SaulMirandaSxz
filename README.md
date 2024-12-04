@@ -1,7 +1,7 @@
 👋 Hi, I’m @SaulMirandaSxz
 Senior Programmer with expertise in Python, JavaScript, PHP, passionate about technology and crafting innovative solutions.
 Certified Top Talent in Upwork:<br>
-<a targe="__blank" href="https://www.upwork.com/freelancers/sauldanielmiranda"> 
+<a targe="_blank" href="https://www.upwork.com/freelancers/sauldanielmiranda"> 
 Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 
 - 🌱 Currently learning C++ to enhance my skills in advanced programming.

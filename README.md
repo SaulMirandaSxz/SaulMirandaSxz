@@ -14,21 +14,21 @@ Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 - 📫 Email: contact@saulmiranda.com
 
 🚀 My Favorite Frameworks & Libraries
-🐘 Laravel – Elegant PHP framework for web artisans.
-⚛️ ReactJS – A library for building user interfaces with ease.
-🅰️ AngularJS – Dynamic, robust, and full-featured front-end framework.
-🐍 Django – The web framework for perfectionists with deadlines.
-🌲 Node.js – JavaScript runtime built for scalable applications.
-⏭️ Next.js – The React framework for production and speed.
-🚦 Express.js – Minimal and flexible Node.js web application framework.
-🌐 Vue.js – The progressive framework for building user interfaces.
-📦 Bootstrap – A sleek, intuitive, and powerful front-end framework.
-🎨 Tailwind CSS – Utility-first CSS framework for rapid UI development.
-⚙️ Flask – Lightweight and simple Python framework.
-🛠️ ASP.NET – A powerful framework for building enterprise-level applications.
-📊 Chart.js – Simple yet flexible JavaScript charting library.
-📜 jQuery – Simplifying JavaScript for dynamic web apps.
-📦 Redux – Predictable state container for JavaScript apps.
+🐘 Laravel – Elegant PHP framework for web artisans. <br>
+⚛️ ReactJS – A library for building user interfaces with ease. <br>
+🅰️ AngularJS – Dynamic, robust, and full-featured front-end framework. <br>
+🐍 Django – The web framework for perfectionists with deadlines. <br>
+🌲 Node.js – JavaScript runtime built for scalable applications. <br>
+⏭️ Next.js – The React framework for production and speed. <br>
+🚦 Express.js – Minimal and flexible Node.js web application framework. <br>
+🌐 Vue.js – The progressive framework for building user interfaces. <br>
+📦 Bootstrap – A sleek, intuitive, and powerful front-end framework. <br>
+🎨 Tailwind CSS – Utility-first CSS framework for rapid UI development. <br>
+⚙️ Flask – Lightweight and simple Python framework. <br>
+🛠️ ASP.NET – A powerful framework for building enterprise-level applications. <br>
+📊 Chart.js – Simple yet flexible JavaScript charting library. <br>
+📜 jQuery – Simplifying JavaScript for dynamic web apps. <br>
+📦 Redux – Predictable state container for JavaScript apps. <br>
 📡 Socket.IO – Real-time bidirectional event-based communication.
 
 <!---

@@ -13,7 +13,7 @@ Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 
 - 📫 Email: contact@saulmiranda.com
 
-🚀 My Favorite Frameworks & Libraries
+🚀 My Favorite Frameworks & Libraries <br>
 🐘 Laravel – Elegant PHP framework for web artisans. <br>
 ⚛️ ReactJS – A library for building user interfaces with ease. <br>
 🅰️ AngularJS – Dynamic, robust, and full-featured front-end framework. <br>

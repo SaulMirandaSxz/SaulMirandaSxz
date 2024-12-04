@@ -1,9 +1,12 @@
 👋 Hi, I’m @SaulMirandaSxz
-Senior Programmer with expertise in Python, React, Laravel, and PHP, passionate about technology and crafting innovative solutions.
+Senior Programmer with expertise in Python, JavaScript, PHP, passionate about technology and crafting innovative solutions.
+Certified Top Talent in Upwork
+<a href="https://www.upwork.com/freelancers/sauldanielmiranda"> 
+Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 
 - 🌱 Currently learning C++ to enhance my skills in advanced programming.
 - 🚀 Founder of Neotoro Technology, where we collaborate with high-level companies to create impactful technological experiences worldwide. 
-<a href="https://www.neotorotech.com/">https://www.neotorotech.com/</a>
+<a href="https://www.neotorotech.com/"> Neotoro Technology </a>
 - 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.
 - 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.
 - 💡 Let’s connect! If you have an exciting project or shared interests, feel free to reach out.

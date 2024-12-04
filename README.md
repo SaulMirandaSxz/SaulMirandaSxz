@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @SaulMirandaSxz
-- 👀 I’m interested in motorcycles, videogames & programming <3 
-- 🌱 I’m currently learning React! 
-- 💞️ I’m looking to collaborate with my own company creating incredible experiences all around the world!  
-- 📫 How to reach me: contact@saulmiranda.com 
+👋 Hi, I’m @SaulMirandaSxz
+Senior Programmer with expertise in Python, React, Laravel, and PHP, passionate about technology and crafting innovative solutions.
+
+- 🌱 Currently learning C++ to enhance my skills in advanced programming.
+- 🚀 Founder of Neotoro Technology, where we collaborate with high-level companies to create impactful technological experiences worldwide. 
+<a href="https://www.neotorotech.com/">https://www.neotorotech.com/</a>
+- 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.
+- 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.
+- 💡 Let’s connect! If you have an exciting project or shared interests, feel free to reach out.
+- 📫 Email: contact@saulmiranda.com
 
 
 <!---

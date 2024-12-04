@@ -1,7 +1,7 @@
 👋 Hi, I’m @SaulMirandaSxz
 Senior Programmer with expertise in Python, JavaScript, PHP, passionate about technology and crafting innovative solutions.
 <br>
-Certified Top Talent in Upwork:<br>
+<strong>Certified Top Talent in Upwork:<br></strong>
 <a target="_blank" href="https://www.upwork.com/freelancers/sauldanielmiranda"> 
 Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 
@@ -11,9 +11,8 @@ Upwork - ✅ 100% Job Success <br> 🛡️Top Rated Plus </a>
 - 🤖 Interested in Artificial Intelligence, game development, web3 and research in disruptive technologies.<br>
 - 🎓 Certified in Machine Learning by MIT, focused on transforming complex ideas into successful projects.<br>
 - 💡 Let’s connect! If you have an exciting project or shared interests, feel free to reach out.
-<br>
 - 📫 Email: contact@saulmiranda.com
-<br>
+<br><br>
 <strong>🚀 My Favorite Frameworks & Libraries </strong><br>
 🐘 Laravel – Elegant PHP framework for web artisans. <br>
 ⚛️ ReactJS – A library for building user interfaces with ease. <br>
